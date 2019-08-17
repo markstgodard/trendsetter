@@ -1,0 +1,2 @@
+# trend
+Calculate a trendline
